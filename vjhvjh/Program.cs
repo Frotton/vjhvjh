@@ -11,6 +11,7 @@ namespace vjhvjh
         static void Main(string[] args)
         {
             Console.WriteLine("Bonjour Paul");
+            Console.WriteLine("Bonjour Jean");
         }
     }
 }
