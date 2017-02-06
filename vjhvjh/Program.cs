@@ -12,6 +12,7 @@ namespace vjhvjh
         {
             //J'aime les chats
             Console.WriteLine("Bonjour Paul");
+            Console.WriteLine("Bonjour Jean");
         }
     }
 }
